@@ -73,3 +73,5 @@ See also the list of [contributors](https://github.com/Bluemanoid/Uniticons/grap
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+This package contains third-party elements governed by the license(s), See [Third Party Notices](ThirdPartyNotices.md).
