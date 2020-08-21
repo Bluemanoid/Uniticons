@@ -1,7 +1,7 @@
 {
-	"name": "com.bluemanoid.unity-fontawesome",
-	"displayName": "Font Awesome",
-	"version": "5.14.0",
-	"description": "Font Awesome icons for Unity",
+	"name": "com.bluemanoid.uniticons",
+	"displayName": "Uniticons",
+	"version": "0.1.0",
+	"description": "Icon sets for Unity",
 	"unity": "2019.3"
 }
