@@ -1,22 +1,18 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/Bluemanoid/uniticons">
-    <img src="assets/logo.svg" alt="Logo" width="150">
-   </a>
-  <br>
-  Spacescape
+  Uniticons
   <br>
 </h1>
 
 <h4 align="center">A free & open-source icon set for Unity !</h4>
 
 <p align="center">
-  <a href="https://github.com/Bluemanoid/uniticons/releases"><img src="https://img.shields.io/github/v/release/Bluemanoid/uniticons?sort=semver" alt="Gitter"></a>
-  <a href="https://github.com/Bluemanoid/uniticons/stargazers"><img src="https://img.shields.io/github/stars/Bluemanoid/uniticons.svg"></a>
-  <a href="https://github.com/Bluemanoid/uniticons/issues"><img src="https://img.shields.io/github/issues/Bluemanoid/uniticons.svg"></a>
-  <a href="https://github.com/Bluemanoid/uniticons/pulls"><img src="https://img.shields.io/github/issues-pr/Bluemanoid/uniticons"></a>
-  <a href="https://github.com/Bluemanoid/uniticons/graphs/contributors"><img src="https://img.shields.io/github/contributors-anon/Bluemanoid/uniticons.svg"></a>
-  <a href="https://github.com/Bluemanoid/uniticons/issues"><img src="https://img.shields.io/badge/contributions-welcome-orange.svg"></a>
+  <a href="https://github.com/Bluemanoid/Uniticons/releases"><img src="https://img.shields.io/github/v/release/Bluemanoid/Uniticons?sort=semver"></a>
+  <a href="https://github.com/Bluemanoid/Uniticons/stargazers"><img src="https://img.shields.io/github/stars/Bluemanoid/Uniticons.svg"></a>
+  <a href="https://github.com/Bluemanoid/Uniticons/issues"><img src="https://img.shields.io/github/issues/Bluemanoid/Uniticons.svg"></a>
+  <a href="https://github.com/Bluemanoid/Uniticons/pulls"><img src="https://img.shields.io/github/issues-pr/Bluemanoid/Uniticons"></a>
+  <a href="https://github.com/Bluemanoid/Uniticons/graphs/contributors"><img src="https://img.shields.io/github/contributors-anon/Bluemanoid/Uniticons.svg"></a>
+  <a href="https://github.com/Bluemanoid/Uniticons/issues"><img src="https://img.shields.io/badge/contributions-welcome-orange.svg"></a>
   <a href="License.md"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
 </p>
 
@@ -51,7 +47,10 @@
 ```json
 {
   "dependencies": {
-    "com.bluemanoid.uniticons": "https://github.com/Bluemanoid/uniticons.git"
+    "com.bluemanoid.uniticons": "https://github.com/Bluemanoid/Uniticons.git",
+    ...
+  }
+  ...
 }
 ```
 
@@ -69,7 +68,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 * **Yoann Potinet** - *Initial work* - [intelligide](https://github.com/intelligide)
 
-See also the list of [contributors](https://github.com/Bluemanoid/uniticons/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/Bluemanoid/Uniticons/graphs/contributors) who participated in this project.
 
 ## License
 
